@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478142014 source:e:\cspaces\blocksspace\hello\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"print.h"
+
+1478141701 e:\cspaces\blocksspace\hello\hello\print.h
+
+1478141993 source:e:\cspaces\blocksspace\hello\hello\print.c
+	"print.h"
+	<stdio.h>
+
